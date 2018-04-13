@@ -403,30 +403,17 @@ nav.opened .hamburger span {
 .navbar-brand a {
 }
 .nav .link, .dropdown-item {
-  font-size: 1em;
+  font-size: 1.4em;
   color: #ffffff;
 }
 .navbar, .dropdown-menu {
-  background: #333333;
+  background: #000000;
 }
 .dropdown-menu .dropdown-toggle[aria-expanded="true"], .dropdown-menu a:hover, .dropdown-menu a:focus {
-  background: #292929;
+  background: #000000;
 }
 .navbar-toggler {
   color: #ffffff;
-}
-}
-
-#header2-f {
-& when not (@fullScreen) {
-  padding-top: (@paddingTop * 15px);
-  padding-bottom: (@paddingBottom * 15px);
-}
-& when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
-}
-& when (@bg-type = 'color') {
-  background-color: @bg-value;
 }
 }
 
@@ -501,9 +488,6 @@ padding-bottom: (@paddingBottom * 15px);
     }
   }
 }
-}
-
-#features1-l {
 }
 @isPublish: true;
 
