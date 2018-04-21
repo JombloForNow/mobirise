@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "browse.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 65,
     "versionPublish": "4.7.0",
@@ -111,7 +111,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Browse",
-        "order": 4
+        "order": 1
       },
       "components": [
         {
@@ -201,7 +201,7 @@
       "settings": {
         "meta_descr": "Concerts / Shows",
         "title": "Concerts / Shows",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -291,7 +291,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Featured Albums",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -381,7 +381,7 @@
       "settings": {
         "meta_descr": "Radio",
         "title": "Radio",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
