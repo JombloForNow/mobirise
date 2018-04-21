@@ -13,6 +13,46 @@
 #ext_menu-1j .mbr-navbar__items a {
   font-size: 20px;
 }
+#msg-box4-1t .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1t .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1t .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1t .mbr-article P {
+  font-size: 16px;
+  text-align: left;
+}
+#msg-box4-1u .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1u .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1u .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1v .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1v .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1v .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1w .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1w .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1w .mbr-article {
+  color: #ffffff;
+}
 #ext_menu-1l .mbr-brand__name {
   font-size: 16px;
 }
@@ -507,7 +547,7 @@ undefined {
 
 #msg-box4-1d {
 .mbr-header__text {
-  color: #ffffff;
+  color: #fac51c;
 }
 .mbr-header__subtext {
   color: #ffffff;
@@ -539,6 +579,9 @@ undefined {
 .mbr-article {
   color: #ffffff;
 }
+}
+
+#gallery1-21 {
 }
 
 #contacts2-1g {
