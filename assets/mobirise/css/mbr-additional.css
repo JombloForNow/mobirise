@@ -104,6 +104,27 @@
 #ext_menu-1n .mbr-navbar__items a {
   font-size: 13px;
 }
+#header4-2v P {
+  color: #ffffff;
+}
+#header4-2v H1 {
+  color: #ffffff;
+  font-size: 84px;
+}
+#header4-2v I {
+  font-size: 30px;
+}
+#content5-2w .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #faaf40;
+}
+#content5-2w .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fac51c;
+}
+#content5-2w .mbr-article {
+  color: #fff;
+}
 #contacts2-1o P {
   font-size: 15px;
   color: #faaf40;
