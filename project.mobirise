@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "browse.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 65,
     "versionPublish": "4.7.0",
@@ -480,7 +480,8 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#f7da64"
+              "color": "#f7da64",
+              "text-align": "right"
             },
             ".mbr-article": {
               "color": "#fff"
@@ -490,7 +491,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
