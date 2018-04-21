@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Mewsic",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 75,
@@ -10,7 +10,7 @@
         "#5b5b5b"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/73514740d5ee2c2a460c12a945d55155-128x162.png",
     "noImageResize": "",
     "siteUrl": "undefined",
     "path": "@PROJECT_PATH@",
@@ -811,7 +811,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#fac51c",
-              "text-align": "right"
+              "text-align": "center"
             },
             ".mbr-article": {
               "color": "#fac51c",
