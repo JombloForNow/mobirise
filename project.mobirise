@@ -497,7 +497,7 @@
             "showSubheader": false,
             "showImages": true,
             "showTitles": true,
-            "showCaptions": true,
+            "showCaptions": false,
             "showButtons": true,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -540,7 +540,7 @@
           },
           "title1": "ROCK",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://open.spotify.com/view/rock-page\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -563,7 +563,7 @@
           },
           "title2": "POP",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://open.spotify.com/view/pop-page\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -586,13 +586,16 @@
           },
           "title3": "JAZZ",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://open.spotify.com/view/jazz-page\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "images/unlimited-websites.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-12.37.04-am-560x557.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -604,9 +607,9 @@
               "size": 0
             }
           },
-          "title4": "OTHERS",
+          "title4": "LAST YEAR HITS",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWWc7FHtfhRr4\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
