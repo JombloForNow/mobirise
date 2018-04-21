@@ -53,6 +53,9 @@
 #msg-box4-1w .mbr-article {
   color: #ffffff;
 }
+#contacts2-1k P {
+  font-size: 16px;
+}
 #ext_menu-1l .mbr-brand__name {
   font-size: 16px;
 }
@@ -67,6 +70,9 @@
 }
 #ext_menu-1l .mbr-navbar__items a {
   font-size: 20px;
+}
+#contacts2-1m P {
+  font-size: 16px;
 }
 #ext_menu-1n .mbr-brand__name {
   font-size: 16px;
@@ -83,6 +89,9 @@
 #ext_menu-1n .mbr-navbar__items a {
   font-size: 20px;
 }
+#contacts2-1o P {
+  font-size: 16px;
+}
 #ext_menu-1p .mbr-brand__name {
   font-size: 16px;
 }
@@ -97,6 +106,9 @@
 }
 #ext_menu-1p .mbr-navbar__items a {
   font-size: 20px;
+}
+#contacts2-1q P {
+  font-size: 16px;
 }
 #ext_menu-1r .mbr-brand__name {
   font-size: 16px;
@@ -113,15 +125,19 @@
 #ext_menu-1r .mbr-navbar__items a {
   font-size: 20px;
 }
+#contacts2-1s P {
+  font-size: 16px;
+}
 @isPublish: true;
 
 #msg-box1-1i {
 .mbr-header .mbr-header__text {
-  color: #f7da64;
+  color: #fac51c;
   text-align: right;
 }
 .mbr-article {
-  color: #fff;
+  color: #fac51c;
+  font-size: 24px;
 }
 }
 
@@ -525,6 +541,9 @@ nav.opened .hamburger span {
 undefined {
   color: #f7da64;
 }
+B {
+  color: #fac51c;
+}
 }
 
 #ext_menu-1a {
@@ -581,8 +600,14 @@ undefined {
 }
 }
 
+#testimonials1-22 {
+}
+
 #gallery1-21 {
 }
 
 #contacts2-1g {
+P {
+  font-size: 16px;
+}
 }

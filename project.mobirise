@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 74,
+    "uniqCompNum": 75,
     "versionPublish": "4.7.0",
     "theme": {
       "additionalSetColors": [
@@ -57,7 +57,7 @@
               "font-size": "20px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
           "logo": {
             "image": {
               "active": true,
@@ -398,13 +398,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>3211 Somewhere St.<br>Jakarta, IU 66988<br>",
+          "text1": "<strong>ADDRESS</strong><br>Jl. Pulau Tidung, Kembangan Utara, Jakarta, 11610<br><br>CONTACTS<br>Phone: +6221 582304383<br>E-Mail: thisleadstonowhere@gmail.com",
           "text2": "",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1k"
+          "_anchor": "contacts2-1k",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          }
         }
       ]
     },
@@ -448,7 +453,7 @@
               "font-size": "20px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
           "logo": {
             "image": {
               "active": true,
@@ -489,13 +494,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>3211 Somewhere St.<br>Jakarta, IU 66988<br>",
+          "text1": "<strong>ADDRESS</strong><br>Jl. Pulau Tidung, Kembangan Utara, Jakarta, 11610<br><br>CONTACTS<br>Phone: +6221 582304383<br>E-Mail: thisleadstonowhere@gmail.com",
           "text2": "",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1m"
+          "_anchor": "contacts2-1m",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          }
         }
       ]
     },
@@ -539,7 +549,7 @@
               "font-size": "20px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
           "logo": {
             "image": {
               "active": true,
@@ -580,13 +590,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>3211 Somewhere St.<br>Jakarta, IU 66988<br>",
+          "text1": "<strong>ADDRESS</strong><br>Jl. Pulau Tidung, Kembangan Utara, Jakarta, 11610<br><br>CONTACTS<br>Phone: +6221 582304383<br>E-Mail: thisleadstonowhere@gmail.com",
           "text2": "",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1o"
+          "_anchor": "contacts2-1o",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          }
         }
       ]
     },
@@ -630,7 +645,7 @@
               "font-size": "20px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
           "logo": {
             "image": {
               "active": true,
@@ -671,13 +686,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>3211 Somewhere St.<br>Jakarta, IU 66988<br>",
+          "text1": "<strong>ADDRESS</strong><br>Jl. Pulau Tidung, Kembangan Utara, Jakarta, 11610<br><br>CONTACTS<br>Phone: +6221 582304383<br>E-Mail: thisleadstonowhere@gmail.com",
           "text2": "",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1q"
+          "_anchor": "contacts2-1q",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          }
         }
       ]
     },
@@ -721,7 +741,7 @@
               "font-size": "20px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
           "logo": {
             "image": {
               "active": true,
@@ -762,13 +782,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>3211 Somewhere St.<br>Jakarta, IU 66988<br>",
+          "text1": "<strong>ADDRESS</strong><br>Jl. Pulau Tidung, Kembangan Utara, Jakarta, 11610<br><br>CONTACTS<br>Phone: +6221 582304383<br>E-Mail: thisleadstonowhere@gmail.com",
           "text2": "",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1s"
+          "_anchor": "contacts2-1s",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          }
         }
       ]
     },
@@ -785,16 +810,17 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#f7da64",
+              "color": "#fac51c",
               "text-align": "right"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#fac51c",
+              "font-size": "24px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -802,7 +828,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#5b5b5b",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -812,7 +838,7 @@
             "overlayOpacity": 0.5
           },
           "title": "The Home For Mewsic Lovers",
-          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "text": "<b>By Jason Jeremy Wijadi(10C), Amanda Gracia (10C), Karl Dalton Tjia (10D), Kayla Jeannete Rusli (10D)</b>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
@@ -1244,6 +1270,9 @@
             },
             "undefined": {
               "color": "#f7da64"
+            },
+            "B": {
+              "color": "#fac51c"
             }
           },
           "_cid": "qDpulmHiYE",
@@ -1284,7 +1313,7 @@
               "font-size": "20px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
           "logo": {
             "image": {
               "active": true,
@@ -1503,6 +1532,64 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "Some Words From The People",
+          "items": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-22",
+          "testimonial": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+            }
+          ]
+        },
+        {
+          "_params": {
             "fullWidth": false,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1588,13 +1675,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>3211 Somewhere St.<br>Jakarta, IU 66988<br>",
+          "text1": "<strong>ADDRESS</strong><br>Jl. Pulau Tidung, Kembangan Utara, Jakarta, 11610<br><br>CONTACTS<br>Phone: +6221 582304383<br>E-Mail: thisleadstonowhere@gmail.com",
           "text2": "",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1g"
+          "_anchor": "contacts2-1g",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          }
         }
       ]
     }
