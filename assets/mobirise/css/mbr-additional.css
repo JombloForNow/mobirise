@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 #ext_menu-1j .mbr-brand__name {
   font-size: 16px;
 }
@@ -11,11 +12,11 @@
   color: #ffffff;
 }
 #ext_menu-1j .mbr-navbar__items a {
-  font-size: 13px;
+  font-size: 12px;
 }
 #header1-23 P {
   text-align: left;
-  font-size: 22px;
+  font-size: 24px;
 }
 #header1-23 H1 {
   font-size: 16px;
@@ -80,7 +81,7 @@
   color: #ffffff;
 }
 #ext_menu-1l .mbr-navbar__items a {
-  font-size: 13px;
+  font-size: 12px;
 }
 #contacts2-1m P {
   font-size: 15px;
@@ -102,7 +103,7 @@
   color: #ffffff;
 }
 #ext_menu-1n .mbr-navbar__items a {
-  font-size: 13px;
+  font-size: 12px;
 }
 #header4-2v P {
   color: #ffffff;
@@ -145,7 +146,7 @@
   color: #ffffff;
 }
 #ext_menu-1r .mbr-navbar__items a {
-  font-size: 13px;
+  font-size: 12px;
 }
 #contacts2-1s P {
   font-size: 15px;
@@ -167,7 +168,7 @@
   color: #ffffff;
 }
 #ext_menu-1p .mbr-navbar__items a {
-  font-size: 13px;
+  font-size: 12px;
 }
 #msg-box2-2t .mbr-header .mbr-header__text {
   color: #faaf40;
@@ -223,7 +224,7 @@
   color: #ffffff;
 }
 #ext_menu-24 .mbr-navbar__items a {
-  font-size: 13px;
+  font-size: 12px;
 }
 #msg-box1-31 .mbr-header .mbr-header__text {
   color: #faaf40;
@@ -709,7 +710,7 @@ B {
   color: #ffffff;
 }
 .mbr-navbar__items a {
-  font-size: 13px;
+  font-size: 12px;
 }
 }
 
@@ -773,6 +774,7 @@ STRONG {
   color: #faaf40;
 }
 }
+
 #ext_menu-2f .mbr-brand__name {
   font-size: 16px;
 }
@@ -786,7 +788,7 @@ STRONG {
   color: #ffffff;
 }
 #ext_menu-2f .mbr-navbar__items a {
-  font-size: 13px;
+  font-size: 12px;
 }
 #msg-box1-2i .mbr-header .mbr-header__text {
   color: #faaf40;
@@ -794,6 +796,18 @@ STRONG {
 }
 #msg-box1-2i .mbr-article {
   color: #fac51c;
+}
+#msg-box3-34 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #faaf40;
+}
+#msg-box3-34 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-34 .mbr-article P {
+  font-size: 25px;
+  color: #faaf40;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 #msg-box4-2k .mbr-header__text {
   color: #faaf40;

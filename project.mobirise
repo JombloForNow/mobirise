@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Mewsic",
-    "currentPage": "artists.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 111,
+    "uniqCompNum": 113,
     "versionPublish": "4.7.0",
     "theme": {
       "additionalSetColors": [
@@ -57,7 +57,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "13px"
+              "font-size": "12px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"albums.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"artists.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -101,10 +101,10 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
           "title": "",
-          "text": "We are a small group of aspiring teenagers aiming to make people’s lives easier by giving them the ease of having music at the tip of their fingers. Each of us has a mind of our own, but we’ve worked well together so we decided why not work on something everyone enjoys, music. Music plays a huge part in our day-to-day lives. From calming us down, to setting our mood for the day. Life would be dull without it. And that is why we chose music as our main theme. Mewsic is for all those people who struggles to find good music and is too busy to scout the internet for it. We provide a “browse” feature for people with all kinds of music tastes. No matter what you feel like listening, we have it all. Furthermore, concerts are a big deal. You obviously don’t want to miss it. Therefore, we also have a “concerts” feature that will allow you to discover upcoming concerts near your region. If you’re just in the mood for some random music, no filters whatsoever, then we introduce you to our “radio” feature, in which you are able to just listen to music freely without any ads interrupting in between. That’s it from us now, I hope you enjoy divulging into the world of music, with yours truly, Mewsic.",
+          "text": "We are a small group of aspiring teenagers aiming to make people’s lives easier by giving them the ease of having music at the tip of their fingers. Each of us has a mind of our own, but we’ve worked well together so we decided why not work on something everyone enjoys, music. Music plays a huge part in our day-to-day lives. From calming us down, to setting our mood for the day. Life would be dull without it. And that is why we chose music as our main theme. That’s it from us now, I hope you enjoy divulging into the world of music, with yours truly, Mewsic.<br><br>- Amanda Gracia, Founder and Head Designer",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -114,7 +114,7 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-size": "22px"
+              "font-size": "24px"
             },
             "H1": {
               "font-size": "16px"
@@ -129,7 +129,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "38",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -168,7 +168,7 @@
             }
           },
           "title": "Karl Dalton Tjia",
-          "text": "<p>Somehow gained the position of CEO</p>",
+          "text": "<p>Somehow gained the position of CEO.</p>",
           "_tags": [
             "Theme"
           ],
@@ -240,7 +240,7 @@
             }
           },
           "title": "Amanda Gracia",
-          "text": "<p>The person behind the Mewsic logo. Secretly likes cats</p>",
+          "text": "<p>The person behind the Mewsic logo and the design of the whole website. Secretly likes cats.</p>",
           "_tags": [
             "Theme"
           ],
@@ -305,7 +305,7 @@
             }
           },
           "title": "Kayla Jeannete Rusli",
-          "text": "<p>Person in charge of the weekly featured albums. There's a reason why Little Mix always pops up there every week</p>",
+          "text": "<p>Person in charge of the weekly featured albums. There's a reason why some artists are always there every week.</p>",
           "_tags": [
             "Theme"
           ],
@@ -370,7 +370,7 @@
             }
           },
           "title": "Jason Jeremy Wijadi",
-          "text": "The person who designed the website. That's why I can put whatever I want here",
+          "text": "The person who put the website together. That's why I can put whatever I want here.",
           "_tags": [
             "Theme"
           ],
@@ -466,7 +466,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "13px"
+              "font-size": "12px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"albums.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"artists.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -566,7 +566,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "13px"
+              "font-size": "12px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"albums.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"artists.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -756,7 +756,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "13px"
+              "font-size": "12px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"albums.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"artists.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -856,7 +856,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "13px"
+              "font-size": "12px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"albums.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"artists.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -1202,7 +1202,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "13px"
+              "font-size": "12px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"albums.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"artists.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -2090,7 +2090,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "13px"
+              "font-size": "12px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"albums.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"artists.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -2534,7 +2534,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "13px"
+              "font-size": "12px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"albums.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"artists.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -2621,6 +2621,54 @@
           ],
           "_name": "video1",
           "_anchor": "video1-2j"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#faaf40"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "font-size": "25px",
+              "color": "#faaf40",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#5b5b5b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mewsic is for all those people who struggles to find good music and is too busy to scout the internet for it. We provide a “browse” feature for people with all kinds of music tastes. No matter what you feel like listening, we have it all. Furthermore, concerts are a big deal. You obviously don’t want to miss it. Therefore, we also have a “concerts” feature that will allow you to discover upcoming concerts near your region. If you’re just in the mood for some random music, no filters whatsoever, then we introduce you to our “radio” feature, in which you are able to just listen to music freely without any ads interrupting in between.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-34"
         },
         {
           "_inherit": "msg-box5",
