@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mewsic",
-    "currentPage": "browse.html",
+    "currentPage": "about-us.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 114,
     "versionPublish": "4.7.0",
@@ -114,7 +114,7 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-size": "24px"
+              "font-size": "20px"
             },
             "H1": {
               "font-size": "16px"
@@ -800,7 +800,7 @@
             },
             "H1": {
               "color": "#ffffff",
-              "font-size": "84px"
+              "font-size": "48px"
             },
             "I": {
               "font-size": "30px"
