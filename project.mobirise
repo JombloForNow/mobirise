@@ -3,11 +3,12 @@
     "name": "Mewsic",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 75,
+    "uniqCompNum": 76,
     "versionPublish": "4.7.0",
     "theme": {
       "additionalSetColors": [
-        "#5b5b5b"
+        "#5b5b5b",
+        "#252525"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/73514740d5ee2c2a460c12a945d55155-128x162.png",
@@ -54,7 +55,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "20px"
+              "font-size": "16px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -82,13 +83,13 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "showArrow": false,
-            "contentAlign": "right",
+            "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "images/bg5.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-8116-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -96,18 +97,27 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
-          "title": "Some History",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "title": "",
+          "text": "We are a small group of aspiring teenagers aiming to make people’s lives easier by giving them the ease of having music at the tip of their fingers. Each of us has a mind of our own, but we’ve worked well together so we decided why not work on something everyone enjoys, music. Music plays a huge part in our day-to-day lives. From calming us down, to setting our mood for the day. Life would be dull without it. And that is why we chose music as our main theme. Mewsic is for all those people who struggles to find good music and is too busy to scout the internet for it. We provide a “browse” feature for people with all kinds of music tastes. No matter what you feel like listening, we have it all. Furthermore, concerts are a big deal. You obviously don’t want to miss it. Therefore, we also have a “concerts” feature that will allow you to discover upcoming concerts near your region. If you’re just in the mood for some random music, no filters whatsoever, then we introduce you to our “radio” feature, in which you are able to just listen to music freely without any ads interrupting in between. That’s it from us now, I hope you enjoy divulging into the world of music, with yours truly, Mewsic.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1z"
+          "_anchor": "header1-23",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "22px"
+            },
+            "H1": {
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -450,7 +460,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "20px"
+              "font-size": "16px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -546,7 +556,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "20px"
+              "font-size": "16px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -642,7 +652,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "20px"
+              "font-size": "16px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -738,7 +748,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "20px"
+              "font-size": "16px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -1310,7 +1320,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "20px"
+              "font-size": "16px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"featured.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
@@ -1536,13 +1546,13 @@
             "showName": true,
             "showBio": true,
             "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#c1c1c1",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -1550,19 +1560,19 @@
           "header": "Some Words From The People",
           "items": [
             {
-              "authorName": "ABANOUB S.",
+              "authorName": "FEBE D.",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
+              "text": "<p class=\"mbr-reviews__p\">“This website has changed my life.”</p>"
             },
             {
-              "authorName": "SUFFIAN A.",
+              "authorName": "ANTHEA N.",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
+              "text": "<p class=\"mbr-reviews__p\">“I’ve never listened to this many hours of music until I came across Mewsic!”</p>"
             },
             {
-              "authorName": "JHOLLMAN C.",
+              "authorName": "THORSTEN O.",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+              "text": "<p class=\"mbr-reviews__p\">“My family and I use the radio feature every. single. day. It really is addicting”</p>"
             }
           ],
           "_tags": [
@@ -1572,21 +1582,29 @@
           "_anchor": "testimonials1-22",
           "testimonial": [
             {
-              "authorName": "ABANOUB S.",
+              "authorName": "FEBE D.",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
+              "text": "<p class=\"mbr-reviews__p\">“This website has changed my life.”</p>"
             },
             {
-              "authorName": "SUFFIAN A.",
+              "authorName": "ANTHEA N.",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
+              "text": "<p class=\"mbr-reviews__p\">“I’ve never listened to this many hours of music until I came across Mewsic!”</p>"
             },
             {
-              "authorName": "JHOLLMAN C.",
+              "authorName": "THORSTEN O.",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+              "text": "<p class=\"mbr-reviews__p\">“My family and I use the radio feature every. single. day. It really is addicting”</p>"
             }
-          ]
+          ],
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#252525"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#5b5b5b"
+            }
+          }
         },
         {
           "_params": {

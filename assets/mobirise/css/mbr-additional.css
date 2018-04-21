@@ -11,7 +11,14 @@
   color: #ffffff;
 }
 #ext_menu-1j .mbr-navbar__items a {
-  font-size: 20px;
+  font-size: 16px;
+}
+#header1-23 P {
+  text-align: left;
+  font-size: 22px;
+}
+#header1-23 H1 {
+  font-size: 16px;
 }
 #msg-box4-1t .mbr-header__text {
   color: #ffffff;
@@ -69,7 +76,7 @@
   color: #ffffff;
 }
 #ext_menu-1l .mbr-navbar__items a {
-  font-size: 20px;
+  font-size: 16px;
 }
 #contacts2-1m P {
   font-size: 16px;
@@ -87,7 +94,7 @@
   color: #ffffff;
 }
 #ext_menu-1n .mbr-navbar__items a {
-  font-size: 20px;
+  font-size: 16px;
 }
 #contacts2-1o P {
   font-size: 16px;
@@ -105,7 +112,7 @@
   color: #ffffff;
 }
 #ext_menu-1p .mbr-navbar__items a {
-  font-size: 20px;
+  font-size: 16px;
 }
 #contacts2-1q P {
   font-size: 16px;
@@ -123,7 +130,7 @@
   color: #ffffff;
 }
 #ext_menu-1r .mbr-navbar__items a {
-  font-size: 20px;
+  font-size: 16px;
 }
 #contacts2-1s P {
   font-size: 16px;
@@ -560,7 +567,7 @@ B {
   color: #ffffff;
 }
 .mbr-navbar__items a {
-  font-size: 20px;
+  font-size: 16px;
 }
 }
 
@@ -601,6 +608,12 @@ B {
 }
 
 #testimonials1-22 {
+.mbr-section__header {
+  color: #252525;
+}
+.mbr-reviews__author-name {
+  color: #5b5b5b;
+}
 }
 
 #gallery1-21 {
