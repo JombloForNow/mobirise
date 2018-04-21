@@ -114,7 +114,8 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#ffffff"
             },
             "H1": {
               "font-size": "16px"
@@ -168,13 +169,13 @@
             }
           },
           "title": "Karl Dalton Tjia",
-          "text": "<p>Somehow gained the position of CEO.</p>",
+          "text": "<p>Somehow gained the position of CEO.</p><p>Favourite Genre = Indonesian Pop</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#faaf40"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -240,13 +241,13 @@
             }
           },
           "title": "Amanda Gracia",
-          "text": "<p>The person behind the Mewsic logo and the design of the whole website. Secretly likes cats.</p>",
+          "text": "<p>The person behind the Mewsic logo and the design of the whole website. Secretly likes cats.</p><p><br></p><p>Favourite Genre = R&amp;B</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#faaf40"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -305,13 +306,13 @@
             }
           },
           "title": "Kayla Jeannete Rusli",
-          "text": "<p>Person in charge of the weekly featured albums. There's a reason why some artists are always there every week.</p>",
+          "text": "<p>Person in charge of the weekly featured albums. There's a reason why some artists are always there every week.</p><p><br></p><p>Favourite Genre = Pop</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#faaf40"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -370,13 +371,13 @@
             }
           },
           "title": "Jason Jeremy Wijadi",
-          "text": "The person who put the website together. That's why I can put whatever I want here.",
+          "text": "<p>The person who put the website together. That's why I can put whatever I want here.</p><p><br></p><p>Favourite Genre = Indonesian Pop</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#faaf40"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
