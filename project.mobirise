@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Mewsic",
-    "currentPage": "about-us.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 114,
+    "uniqCompNum": 115,
     "versionPublish": "4.7.0",
     "theme": {
       "additionalSetColors": [
@@ -2674,7 +2674,7 @@
     "index.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "Pseudo Home",
+        "title": "Home",
         "order": 1
       },
       "components": [
