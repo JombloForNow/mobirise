@@ -3,12 +3,14 @@
     "name": "Mewsic",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 78,
+    "uniqCompNum": 97,
     "versionPublish": "4.7.0",
     "theme": {
       "additionalSetColors": [
         "#5b5b5b",
-        "#252525"
+        "#252525",
+        "#777777",
+        "#3c3c3c"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/73514740d5ee2c2a460c12a945d55155-128x162.png",
@@ -22,7 +24,7 @@
       "settings": {
         "meta_descr": "About Us",
         "title": "About Us",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -417,7 +419,11 @@
           "_anchor": "contacts2-1k",
           "_styles": {
             "P": {
-              "font-size": "15px"
+              "font-size": "15px",
+              "color": "#faaf40"
+            },
+            "STRONG": {
+              "color": "#faaf40"
             }
           }
         }
@@ -427,7 +433,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Browse",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -513,7 +519,11 @@
           "_anchor": "contacts2-1m",
           "_styles": {
             "P": {
-              "font-size": "15px"
+              "font-size": "15px",
+              "color": "#faaf40"
+            },
+            "STRONG": {
+              "color": "#faaf40"
             }
           }
         }
@@ -523,7 +533,7 @@
       "settings": {
         "meta_descr": "Concerts / Shows",
         "title": "Concerts / Shows",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -609,7 +619,11 @@
           "_anchor": "contacts2-1o",
           "_styles": {
             "P": {
-              "font-size": "15px"
+              "font-size": "15px",
+              "color": "#faaf40"
+            },
+            "STRONG": {
+              "color": "#faaf40"
             }
           }
         }
@@ -619,7 +633,7 @@
       "settings": {
         "meta_descr": "Radio",
         "title": "Radio",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -705,13 +719,217 @@
           "_anchor": "contacts2-1s",
           "_styles": {
             "P": {
-              "font-size": "15px"
+              "font-size": "15px",
+              "color": "#faaf40"
+            },
+            "STRONG": {
+              "color": "#faaf40"
             }
           }
         }
       ]
     },
-    "index.html": {
+    "albums.html": {
+      "settings": {
+        "meta_descr": "Web Page Generator Description",
+        "title": "Featured Albums",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"about-us.html\" data-toolbar=\"-mbrBtnMove\">About Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "13px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"albums.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"artists.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/73514740d5ee2c2a460c12a945d55155-101x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mewsic",
+              "link": "http://jomblofornow.github.io/mobirise/index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"http://jomblofornow.github.io/mobirise/index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MEWSIC</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJQQ_Zy5f3aS4RY_9ETp7VRW4",
+              "address": "Springfield School Permata Buana PB3",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Jl. Pulau Tidung, Kembangan Utara, Jakarta, 11610<br><br><b>CONTACTS</b><br>Phone: +6221 582304383<br>E-mail: thisleadstonowhere@gmail.com",
+          "text2": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-1q",
+          "_styles": {
+            "P": {
+              "font-size": "15px",
+              "color": "#faaf40"
+            },
+            "STRONG": {
+              "color": "#faaf40"
+            }
+          }
+        }
+      ]
+    },
+    "artists.html": {
+      "settings": {
+        "meta_descr": "Web Page Maker Description",
+        "title": "Featured Artists",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"about-us.html\" data-toolbar=\"-mbrBtnMove\">About Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "13px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"albums.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"artists.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/73514740d5ee2c2a460c12a945d55155-101x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mewsic",
+              "link": "http://jomblofornow.github.io/mobirise/index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"http://jomblofornow.github.io/mobirise/index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MEWSIC</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-24"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJQQ_Zy5f3aS4RY_9ETp7VRW4",
+              "address": "Springfield School Permata Buana PB3",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Jl. Pulau Tidung, Kembangan Utara, Jakarta, 11610<br><br><b>CONTACTS</b><br>Phone: +6221 582304383<br>E-mail: thisleadstonowhere@gmail.com",
+          "text2": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "font-size": "15px",
+              "color": "#faaf40"
+            },
+            "STRONG": {
+              "color": "#faaf40"
+            }
+          },
+          "_anchor": "contacts2-25"
+        }
+      ]
+    },
+    "page-unused.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -1621,17 +1839,21 @@
           "_anchor": "contacts2-1g",
           "_styles": {
             "P": {
-              "font-size": "15px"
+              "font-size": "15px",
+              "color": "#faaf40"
+            },
+            "STRONG": {
+              "color": "#faaf40"
             }
           }
         }
       ]
     },
-    "albums.html": {
+    "index.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
-        "title": "Featured Albums",
-        "order": 3
+        "meta_descr": "Web Page Builder Description",
+        "title": "Pseudo Home",
+        "order": 1
       },
       "components": [
         {
@@ -1687,103 +1909,426 @@
           },
           "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"http://jomblofornow.github.io/mobirise/index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MEWSIC</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-1p"
+          "_anchor": "ext_menu-2f"
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#faaf40",
+              "text-align": "left"
+            },
+            ".mbr-article": {
+              "color": "#fac51c"
+            }
+          },
           "_params": {
-            "paddingTop": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "placeId": "ChIJQQ_Zy5f3aS4RY_9ETp7VRW4",
-              "address": "Springfield School Permata Buana PB3",
-              "state": "ok",
-              "stateDetails": ""
-            }
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text1": "<strong>ADDRESS</strong><br>Jl. Pulau Tidung, Kembangan Utara, Jakarta, 11610<br><br><b>CONTACTS</b><br>Phone: +6221 582304383<br>E-mail: thisleadstonowhere@gmail.com",
-          "text2": "",
+          "title": "The Home For Mewsic Lovers",
+          "text": "By Jason Jeremy Wijadi (10C), Amanda Gracia (10C), Karl Dalton Tjia (10D), Kayla Jeannete Rusli (10D)",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-1q",
-          "_styles": {
-            "P": {
-              "font-size": "15px"
-            }
-          }
-        }
-      ]
-    },
-    "artists.html": {
-      "settings": {
-        "meta_descr": "Web Page Maker Description",
-        "title": "Featured Artists",
-        "order": 4
-      },
-      "components": [
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2i"
+        },
         {
-          "_inherit": "menu",
+          "_styles": {},
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "showText": false,
+            "bgColor": "#252525"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"about-us.html\" data-toolbar=\"-mbrBtnMove\">About Us</a></li>",
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
+          "_name": "video1",
+          "_anchor": "video1-2j"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#5b5b5b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-navbar__items a": {
-              "font-size": "13px"
-            }
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"browse.html\">Browse</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"radio.html\">Radio</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"albums.html\">Featured Albums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"artists.html\">Featured Artists</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"concerts.html\">Concerts / Shows</a></li>  ",
-          "logo": {
+          "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/73514740d5ee2c2a460c12a945d55155-101x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mewsic",
-              "link": "http://jomblofornow.github.io/mobirise/index.html",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-album-1989-taylor-swift-by-damnhood-d8ry6ek-894x894.png",
+              "link": "https://itunes.apple.com/us/album/1989/907242701",
+              "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"http://jomblofornow.github.io/mobirise/index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MEWSIC</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-24"
+          "title": "1989 D.L.X.",
+          "text": "<p>Released in 2014. A signature album by Taylor Swift. The D.L.X. addition offers 4 songs that didn't make the cut in the original album. Time to discover them now.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#faaf40"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#fac51c"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2k"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#5b5b5b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/https-2f2fimages.genius.com2ffc44439c55552eb23d4a9ecb28a21f06.1000x1000x1-523x523.jpg",
+              "link": "https://itunes.apple.com/ca/album/deluxe/1193701079",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "DIVIDE",
+          "text": "<p>Released in 2017. The latest and most popular album by Ed Sheeran has garnered 4 awards including a Grammy award. For the Pop enthusiasts out there, you need to check this one out.<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#faaf40"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#fac51c"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2l"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#5b5b5b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ariana-grande-no-tears-left-to-cry-1400x1400.jpg",
+              "link": "https://itunes.apple.com/ca/album/no-tears-left-to-cry-single/1374085537",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "NO TEARS LEFT TO CRY",
+          "text": "<p>Released in 2018. This hot new single by Ariana Grande will leave you jammin' all night until you eventually get bored of it. Get this single while it's hot!<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#faaf40"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#fac51c"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://open.spotify.com/album/2AkKk7DFnT2IV1gPcq7RCQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2m"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#5b5b5b",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "Some Words From The People",
+          "items": [
+            {
+              "authorName": "FEBE D.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“This website has changed my life.”</p>"
+            },
+            {
+              "authorName": "ANTHEA N.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“I’ve never listened to this many hours of music until I came across Mewsic!”</p>"
+            },
+            {
+              "authorName": "THORSTEN O.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“My family and I use the radio feature every. single. day. It really is addicting”</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-2n",
+          "testimonial": [
+            {
+              "authorName": "FEBE D.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“This website has changed my life.”</p>"
+            },
+            {
+              "authorName": "ANTHEA N.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“I’ve never listened to this many hours of music until I came across Mewsic!”</p>"
+            },
+            {
+              "authorName": "THORSTEN O.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“My family and I use the radio feature every. single. day. It really is addicting”</p>"
+            }
+          ],
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#faaf40"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#faaf40"
+            },
+            ".mbr-reviews__author-bio": {
+              "color": "#fac51c"
+            },
+            ".mbr-reviews__text P": {
+              "color": "#252525"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "images/slide1.jpg",
+                "thumb": "images/slide1-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "images/slide2.jpg",
+                "thumb": "images/slide2-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide3.jpg",
+                "thumb": "images/slide3-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide4.jpg",
+                "thumb": "images/slide4-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide5.jpg",
+                "thumb": "images/slide5-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide6.jpg",
+                "thumb": "images/slide6-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide7.jpg",
+                "thumb": "images/slide7-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide8.jpg",
+                "thumb": "images/slide8-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-2o"
         },
         {
           "_params": {
@@ -1798,8 +2343,8 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "placeId": "ChIJQQ_Zy5f3aS4RY_9ETp7VRW4",
               "address": "Springfield School Permata Buana PB3",
+              "placeId": "ChIJQQ_Zy5f3aS4RY_9ETp7VRW4",
               "state": "ok",
               "stateDetails": ""
             }
@@ -1812,10 +2357,14 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "font-size": "15px"
+              "font-size": "15px",
+              "color": "#faaf40"
+            },
+            "STRONG": {
+              "color": "#faaf40"
             }
           },
-          "_anchor": "contacts2-25"
+          "_anchor": "contacts2-2g"
         }
       ]
     }
