@@ -2788,7 +2788,9 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+              "src": "https://www.youtube.com/watch?v=bE8sO0TG9CE",
+              "autoplay": "on",
+              "loop": "on"
             }
           },
           "text": "Cut down the development time with drag-and-drop website builder.",
