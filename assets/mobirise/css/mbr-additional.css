@@ -803,6 +803,8 @@ STRONG {
 }
 #msg-box1-2i .mbr-article {
   color: #fac51c;
+  font-size: 20px;
+  text-align: left;
 }
 #msg-box3-34 .mbr-header .mbr-header__text {
   text-align: center;

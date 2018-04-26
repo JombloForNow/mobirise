@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mewsic",
-    "currentPage": "page-unused.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 115,
     "versionPublish": "4.7.0",
@@ -2740,7 +2740,9 @@
               "text-align": "left"
             },
             ".mbr-article": {
-              "color": "#fac51c"
+              "color": "#fac51c",
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_params": {
