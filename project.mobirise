@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mewsic",
-    "currentPage": "index.html",
+    "currentPage": "albums.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 117,
     "versionPublish": "4.7.0",
@@ -1085,7 +1085,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "THIS WEEK'S LATEST ALBUMS<br>",
+          "title": "THIS WEEK'S FEATURED ALBUMS<br>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRY FOR FREE</a>",
           "_tags": [
