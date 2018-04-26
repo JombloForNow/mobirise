@@ -797,14 +797,14 @@ STRONG {
 #ext_menu-2f .mbr-navbar__items a {
   font-size: 12px;
 }
-#msg-box1-2i .mbr-header .mbr-header__text {
+#header4-37 P {
   color: #faaf40;
-  text-align: left;
+  font-size: 22px;
+  text-align: center;
 }
-#msg-box1-2i .mbr-article {
-  color: #fac51c;
-  font-size: 20px;
-  text-align: left;
+#header4-37 H1 {
+  color: #faaf40;
+  font-size: 48px;
 }
 #msg-box3-34 .mbr-header .mbr-header__text {
   text-align: center;

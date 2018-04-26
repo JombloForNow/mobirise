@@ -3,7 +3,7 @@
     "name": "Mewsic",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 115,
+    "uniqCompNum": 116,
     "versionPublish": "4.7.0",
     "theme": {
       "additionalSetColors": [
@@ -2734,71 +2734,49 @@
           "_anchor": "ext_menu-2f"
         },
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#faaf40",
-              "text-align": "left"
-            },
-            ".mbr-article": {
-              "color": "#fac51c",
-              "font-size": "20px",
-              "text-align": "left"
-            }
-          },
+          "_inherit": "header1",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 3,
+            "showArrow": true,
+            "contentAlign": "center",
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "images/bg.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/bE8sO0TG9CE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/bE8sO0TG9CE",
+              "width": 1280,
+              "height": 720
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.5"
           },
           "title": "The Home For Mewsic Lovers",
-          "text": "By Jason Jeremy Wijadi (10C), Amanda Gracia (10C), Karl Dalton Tjia (10D), Kayla Jeannete Rusli (10D)",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
+          "text": "<br><br>By Jason Jeremy Wijadi (10C), Amanda Gracia (10C), Karl Dalton Tjia (10D), Kayla Jeannete Rusli (10D)",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-2i"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": false,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-37",
+          "_styles": {
+            "P": {
+              "color": "#faaf40",
+              "font-size": "22px",
+              "text-align": "center"
             },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=bE8sO0TG9CE",
-              "autoplay": "on",
-              "loop": "on"
+            "H1": {
+              "color": "#faaf40",
+              "font-size": "48px"
             }
-          },
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_anchor": "video1-2j"
+          }
         },
         {
           "_styles": {
