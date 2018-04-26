@@ -817,6 +817,13 @@ STRONG {
   font-size: 25px;
   color: #faaf40;
   font-family: 'Source Sans Pro', sans-serif;
+  text-align: left;
+}
+#slider-38 P {
+  color: #faaf40;
+}
+#slider-38 H1 {
+  color: #faaf40;
 }
 #msg-box4-2k .mbr-header__text {
   color: #faaf40;

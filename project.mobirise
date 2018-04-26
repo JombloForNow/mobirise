@@ -3,7 +3,7 @@
     "name": "Mewsic",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 116,
+    "uniqCompNum": 117,
     "versionPublish": "4.7.0",
     "theme": {
       "additionalSetColors": [
@@ -2748,8 +2748,8 @@
             "bgColor": "#4c6972",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/bE8sO0TG9CE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/bE8sO0TG9CE",
+              "url": "https://www.youtube.com/embed/43PxWucex3w?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=43PxWucex3w&feature=youtu.be",
               "width": 1280,
               "height": 720
             },
@@ -2791,7 +2791,8 @@
               "font-size": "25px",
               "color": "#faaf40",
               "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "text-align": "left"
             }
           },
           "_params": {
@@ -2825,6 +2826,72 @@
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-34"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#5b5b5b",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/-album-1989-taylor-swift-by-damnhood-d8ry6ek-894x894.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "1989 D.L.X.",
+                "contentAlign": "left",
+                "text": "Released in 2014. A signature album by Taylor Swift. The D.L.X. edition offers 4 songs that didn't make the cut in the original album. Time to discover them now.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.3"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/https-2f2fimages.genius.com2ffc44439c55552eb23d4a9ecb28a21f06.1000x1000x1-523x523.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Divide",
+                "contentAlign": "left",
+                "text": "Released in 2017. The latest and most popular album by Ed Sheeran has garnered 4 awards including a Grammy award. For the Pop enthusiasts out there, you need to check this one out.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.3"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ariana-grande-no-tears-left-to-cry-2000x2000.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "NO TEARS LEFT TO CRY",
+                "contentAlign": "left",
+                "text": "Released in 2018. This hot new single by Ariana Grande will leave you jammin' all night until you eventually get bored of it. Get this single while it's hot!",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://open.spotify.com/album/2AkKk7DFnT2IV1gPcq7RCQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.3"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-38",
+          "_styles": {
+            "P": {
+              "color": "#faaf40"
+            },
+            "H1": {
+              "color": "#faaf40"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -3121,57 +3188,64 @@
             "paddingBottom": 3,
             "noGutter": true,
             "showText": false,
-            "showBullets": true,
-            "bgColor": "#4c6972",
+            "showBullets": false,
+            "bgColor": "#7c706b",
             "images": [
               {
-                "image": "images/slide1.jpg",
-                "thumb": "images/slide1-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8116-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8116-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-8229-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8229-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-8280-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8280-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-8173-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8173-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-8260-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8260-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-8135-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8135-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-8222-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8222-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-8088-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8088-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
               }
             ]
           },
