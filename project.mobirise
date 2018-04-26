@@ -2757,7 +2757,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.5"
           },
-          "title": "The Home For Mewsic Lovers",
+          "title": "The Home For Music Lovers",
           "text": "<br><br>By Jason Jeremy Wijadi (10C), Amanda Gracia (10C), Karl Dalton Tjia (10D), Kayla Jeannete Rusli (10D)",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
@@ -2769,8 +2769,8 @@
           "_styles": {
             "P": {
               "color": "#faaf40",
-              "font-size": "22px",
-              "text-align": "center"
+              "font-size": "30px",
+              "text-align": "left"
             },
             "H1": {
               "color": "#faaf40",
