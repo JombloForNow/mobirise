@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mewsic",
-    "currentPage": "index.html",
+    "currentPage": "about-us.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 117,
     "versionPublish": "4.7.0",
@@ -291,7 +291,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dscf5757-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dscf5757-1-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": ""
