@@ -169,7 +169,7 @@
             }
           },
           "title": "Karl Dalton Tjia",
-          "text": "<p>Somehow gained the position of CEO.</p><p>Favourite Genre = Indonesian Pop</p>",
+          "text": "<p>Somehow gained the position of CEO.</p><p>Favourite Genre = Bollywood</p>",
           "_tags": [
             "Theme"
           ],
@@ -241,7 +241,7 @@
             }
           },
           "title": "Amanda Gracia",
-          "text": "<p>The person behind the Mewsic logo and the design of the whole website. Secretly likes cats.</p><p><br></p><p>Favourite Genre = R&amp;B</p>",
+          "text": "<p>The person behind the Mewsic logo and the design of the whole website. Secretly likes cats.</p><p><br></p><p>Favourite Genre = Alternative</p>",
           "_tags": [
             "Theme"
           ],
@@ -270,7 +270,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "33",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -291,7 +291,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/dscf5757-1400x2100.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -305,8 +308,8 @@
               "size": 0
             }
           },
-          "title": "Kayla Jeannete Rusli",
-          "text": "<p>Person in charge of the weekly featured albums. There's a reason why some artists are always there every week.</p><p><br></p><p>Favourite Genre = Pop</p>",
+          "title": "Kayla Jeanette Rusli",
+          "text": "<p>Person in charge of the weekly featured albums. There's a reason why some artists are always there every week.</p><p><br></p><p>Favourite Genre = Indie Pop</p>",
           "_tags": [
             "Theme"
           ],
@@ -356,7 +359,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/dscf5754-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2758,7 +2764,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "The Home For Music Lovers",
-          "text": "<br><br>By Jason Jeremy Wijadi (10C), Amanda Gracia (10C), Karl Dalton Tjia (10D), Kayla Jeannete Rusli (10D)",
+          "text": "<br><br>By Jason Jeremy Wijadi (10C), Amanda Gracia (10C), Karl Dalton Tjia (10D), Kayla Jeanette Rusli (10D)",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
